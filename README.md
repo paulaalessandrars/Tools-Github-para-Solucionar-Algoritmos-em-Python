@@ -1,7 +1,7 @@
 # Desafio: utilizando as Ferramentas do Github para Solucionar Algoritmos em Python
 
 # 1 - Concatenando Dados ✏️
-### Descrição: Vamos receber dois dados diferentes do usuario e concatena-los em uma única string?!
+### Vamos receber dois dados diferentes do usuario e concatena-los em uma única string?!
 
 ## O que aprenderemos? 
 - Manipulação de Strings (string)
@@ -11,7 +11,7 @@
 
 
 # 2 - Repetindo Textos ✏️
-### Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
+### Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
 ## O que aprenderemos?
 
@@ -23,7 +23,7 @@
 
 # 3 - Operações Matemáticas Simples 📐
 
-### Descrição: Vamos solicitar como entrada dois números e depois vamos realizar uma operação entre eles.
+### Vamos solicitar como entrada dois números e depois vamos realizar uma operação entre eles.
 
 ## O que aprenderemos?
 
